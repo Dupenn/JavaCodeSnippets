@@ -9,6 +9,9 @@
 
 This project will share some code scripts that I have come across, and if there are friends willing to share, they can also contribute.
 
+- [English](README.md)
+- [简体中文](README.zh_CN.md)
+
 ## Table of Contents
 
 - [Background](#background)
